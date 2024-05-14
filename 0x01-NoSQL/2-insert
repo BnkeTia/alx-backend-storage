@@ -1,6 +1,6 @@
 // Script that inserts a doccument in the collection school
 
-db.school.insert(
+db.school.insertMany(
 	{
 		name: "Holberton school"
 	}
