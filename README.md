@@ -1,6 +1,6 @@
 # Storage - Backend Specialization
 
-![Database servers](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fjavarevisited%2Ftop-15-most-popular-databases-for-web-applications-in-2023-e1ac058042e5&psig=AOvVaw2UbzdnipLuKgglBFsD3HRr&ust=1715396040195000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiOmcOJgoYDFQAAAAAdAAAAABAE)
+![Database servers](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wb8Mq_2xUS0sUqHMRKGWIA.png)
 
 ## Table of Contents
 * [About](#about)
